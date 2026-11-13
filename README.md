@@ -1,1 +1,1 @@
-# Optic_cup_curv
+# Ramos et al - Image analysis scripts
